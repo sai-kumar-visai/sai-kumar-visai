@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sai-kumar-visai
+- 👋 Hi, I’m @sai kumar visai
 - 👀 I’m interested in developing new things
 - 🌱 I’m currently learning java full stack
 - 💞️ I’m looking to collaborate on web developing
